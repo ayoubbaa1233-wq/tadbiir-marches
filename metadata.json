@@ -1,0 +1,6 @@
+{
+  "name": "Gestion des Marchés de Formation",
+  "description": "Application professionnelle de suivi administratif, financier et opérationnel des marchés de formation, formations, intervenants, interventions, décomptes et paiements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
